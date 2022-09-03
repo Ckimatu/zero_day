@@ -1,0 +1,3 @@
+set up
+
+hello ubuntu
